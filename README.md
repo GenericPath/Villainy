@@ -5,8 +5,8 @@
 <img src="FinalBuild/Screenshot5.png" alt="alt text" width="180">    
 </p>
 
-Playable at <a href="https://garth.wales/Villainy">https://garth.wales/Villainy</a>
-or at <a href="https://cosc360.otago.ac.nz/games/2020/Villainy">https://cosc360.otago.ac.nz page</a>
+Playable at https://garth.wales/Villainy
+or at https://cosc360.otago.ac.nz/games/2020/Villainy
 
 ---
 
@@ -33,7 +33,7 @@ Controls:
 See the wiki for planning documents
 
 Examples (what I worked on)
-- <a href="https://github.com/GenericPath/Villainy/wiki">Homepage, the starting plan</a>
+- <a href="https://github.com/GenericPath/Villainy/wiki">Homepage, the game design document</a>
 - <a href="https://github.com/GenericPath/Villainy/wiki/Economy">Economy of resources planning</a>
 - <a href="https://github.com/GenericPath/Villainy/wiki/LevelDesign">Level Design</a>
 
