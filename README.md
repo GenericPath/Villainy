@@ -1,8 +1,8 @@
 # Villainy
 <p>
-<img src="FinalBuild/Screenshot1.png" alt="alt text" width="180">
-<img src="FinalBuild/Screenshot2.png" alt="alt text" width="180">
-<img src="FinalBuild/Screenshot5.png" alt="alt text" width="180">    
+<img src="FinalBuild/Screenshot1.png" alt="alt text" width="33%">
+<img src="FinalBuild/Screenshot2.png" alt="alt text" width="33%">
+<img src="FinalBuild/Screenshot5.png" alt="alt text" width="33%">    
 </p>
 
 Playable at https://garth.wales/Villainy
