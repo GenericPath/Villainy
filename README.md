@@ -1,7 +1,9 @@
 # Villainy
+<p>
 <img src="FinalBuild/Screenshot1.png" alt="alt text" width="180">
 <img src="FinalBuild/Screenshot2.png" alt="alt text" width="180">
-<img src="FinalBuild/Screenshot5.png" alt="alt text" width="180">
+<img src="FinalBuild/Screenshot5.png" alt="alt text" width="180">    
+</p>
 
 Playable at <a href="https://garth.wales/Villainy">https://garth.wales/Villainy</a>
 or at <a href="https://cosc360.otago.ac.nz/games/2020/Villainy">https://cosc360.otago.ac.nz page</a>
